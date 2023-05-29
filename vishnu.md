@@ -25,6 +25,7 @@ print("concatenated array\n",arr)
  print("found at:",x,"position")
 
 ```
+---
 ```
 OUTPUT
 first array
